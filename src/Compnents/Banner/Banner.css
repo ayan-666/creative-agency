@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bannerPart{
+    height: 500px;
+    background-color: rgb(255, 206, 46);
+}
+.textPart{
+    height: 500px;
+    margin-top: 5%;
+}
+.textPart Button{
+    background-color: rgb(12, 2, 31);
+}
+.bannerImage{
+    height: 500px;
+}
+.bannerImage img{
+    width: 100%;
+}

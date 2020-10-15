@@ -1,0 +1,15 @@
+.footer{
+    height: 500px;
+    background-color: chocolate;
+    margin-top: 50px;
+}
+.footer .text{
+    padding: 5%;
+}
+.footer .form{
+    padding: 5%;
+}
+.footer Button{
+    background-color: darkblue;
+}
+
